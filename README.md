@@ -1,4 +1,36 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The project that uses AI to generate forms.
+
+<img width="1399" alt="Screenshot 2024-01-22 at 3 34 26 PM" src="https://github.com/judygab/ai-form-builder-tutorial/assets/50160672/443a69ed-e441-412a-a84e-ea820022c6dc">
+
+## Tech Stack 
+
+- Next-auth - authentication
+- Shadcn ui - ui library
+- Open Al - AI Integration
+- Drizzle - Orm
+- PostgreSQL - database
+- Stripe - payments
+- Tanstack - Table
+- Typescript - Type Checking
+- Plausible - Analytics
+- Vercel - Deployment
+- Stripe - Payments
+- Zod - Schema Validation
+
+  ## Features
+
+- Authentication ✅
+- AI Form Generation ✅
+- Form Publish and Submissions ✅
+- View your forms ✅
+- Admin Panel ✅
+- View Results ✅
+- Settings & Upgrade Subscription ✅
+- Analytics  ✅
+- Landing page ✅
+- Edit forms ❌ (open to pull requests)
+
 
 ## Getting Started
 
