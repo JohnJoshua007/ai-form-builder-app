@@ -1,35 +1,31 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-The project which uses AI to generate forms.
+This is a project which uses AI to generate forms.
 
 <img width="1399" alt="Screenshot 2024-01-22 at 3 34 26 PM" src="https://github.com/judygab/ai-form-builder-tutorial/assets/50160672/443a69ed-e441-412a-a84e-ea820022c6dc">
 
 ## Tech Stack used for the project
 
-- Next-auth - authentication
-- Shadcn ui - ui library
-- Open Al - AI Integration
+- Next-auth -  for authentication purpose
+- Shadcn ui - ui library available online
+- Open Al - AI Integration for the project
 - Drizzle - Orm
-- PostgreSQL - database
-- Stripe - payments
+- PostgreSQL - database management
 - Tanstack - Table
-- Typescript - Type Checking
-- Plausible - Analytics
-- Vercel - Deployment
-- Stripe - Payments
+- Typescript - porgramming language used
+- Vercel - Deployment(Cloud)
 - Zod - Schema Validation
 
   ## Features of the project
 
-- Authentication ✅
-- AI Form Generation ✅
-- Form Publish and Submissions ✅
-- View your forms ✅
-- Admin Panel ✅
-- View Results ✅
-- Settings & Upgrade Subscription ✅
-- Analytics  ✅
-- Landing page ✅
-- Edit forms ❌ (open to pull requests)
+- Authentication 
+- AI Form Generation 
+- Form Publish and Submissions 
+- View your forms 
+- Admin Panel 
+- View Results  
+- Analytics  
+- Landing page 
+- Edit the  forms
 
 
 ## Getting Started
@@ -45,8 +41,6 @@ pnpm dev
 # or
 bun dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
